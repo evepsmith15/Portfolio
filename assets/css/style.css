@@ -24,8 +24,8 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    position: fixed;
 }
+
 .navbar-nav {
     float: right;
 }
@@ -50,7 +50,7 @@ img {
 }
 
 
-.assignment3 {
+.assignment {
     color: white;
     font-style: bold;
   }
@@ -60,4 +60,7 @@ img {
     top: 45%;
     left: 30%;
     transform: translate(-50%, -50%);
+    background-color: blue;
+    width: 53%;
+    text-align: center;
   }

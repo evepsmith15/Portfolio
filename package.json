@@ -1,0 +1,23 @@
+{
+  "name": "portfolioupdate2",
+  "version": "1.0.0",
+  "description": "This project is the Basic-Portfolio assignment using Bootstrap. Most of the format is already done so its just a matter of adding the information and tweeking the CSS page a bit. \r <hr>\r Prequisites:\r     1. Have an internet browser (FireFox, GoogleChrom, Internet Explorer, etc.)\r     2. GitHub \r     3. Visual Studio Code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evepsmith15/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evepsmith15/Portfolio/issues"
+  },
+  "homepage": "https://github.com/evepsmith15/Portfolio#readme",
+  "dependencies": {
+    "a": "^2.1.2"
+  }
+}
